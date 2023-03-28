@@ -1,2 +1,2 @@
-# Digital_health
+# Digital health and computational epidemology
  
